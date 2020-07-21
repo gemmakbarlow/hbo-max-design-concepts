@@ -8,4 +8,4 @@ Both relate to the ad segments shown _prior_ to the programming a user has selec
 
 
 
-## Watch Instead ▶
+## Watch Instead
