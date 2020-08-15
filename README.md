@@ -1,5 +1,5 @@
 # HBO Max Design Ideas
-Concepts for two new HBO Max features that I'd love to see implemented. 
+Concepts for two new HBO Max features that I'd love to see implemented - **Add to My List** and **Watch Instead**
 
 Both relate to the ad segments shown _prior_ to the programming a user has selected to watch.
 
